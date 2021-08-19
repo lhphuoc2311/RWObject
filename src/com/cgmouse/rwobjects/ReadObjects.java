@@ -17,6 +17,8 @@ public class ReadObjects {
         } catch (EOFException e) {
             System.out.println("Total read " + oCount + " objects");
         }
+
+        //test 2021/8/19
     }
 
 }
